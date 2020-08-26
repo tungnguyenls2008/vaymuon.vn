@@ -1,0 +1,370 @@
+.banner-top .banner-text h2
+{
+    margin: 0 0;
+    font-size: 40px;
+    color: #fff;
+}
+#t_anh {
+    display: inline-block;
+}
+#t_anh > h3{
+    float: left;
+    font-size: 22px;
+    line-height: 30px;
+}
+#t_anh a{
+    margin-right: -45px;
+    margin-left: -30px;
+    width: 35%
+}
+#t_anh img{
+    width: 70%;
+}
+#t_anh a:last-child{
+    padding: 0;
+    margin: 0;
+}
+.progress{
+    margin-left: 200px;
+    width: 80%;
+    background: none;
+    clear: both;
+    border-radius: 2px;
+    overflow: visible;
+    margin-bottom: 1px;
+}
+.progress-bar{
+    box-shadow: none;
+}
+.progress-bar-success,.progress-bar-info{
+    height: 15px;
+}
+.progress-bar-success{
+    background-color:#056839;
+}
+.progress-bar-success:first-child{
+    border-left: 2px solid #ffffff;
+}
+.progress-bar-info{
+    background-color:#f3801b;
+}
+.text-progress{
+    position: relative;
+    float: left;
+    display: inline-block;
+
+}
+.mm{
+    margin-top: 20px;
+}
+.text {
+    float: left;
+    padding-bottom: 10px;
+    padding: 0 175px;
+    font-size: 16px;
+
+    color: #FFFFFF;
+}
+.text:first-child{
+    padding-left: 260px;
+}
+
+.text-progress .text2{
+    float: left;
+    padding:0 158px;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.text-progress .text2:last-child{
+    padding: 0;
+    position: relative;
+    left: 11%;
+}
+.text-progress .text2:nth-child(4){
+    padding-right: 0px;
+    padding-left: 185px;
+}
+
+.fa-chevron-right{
+    float: right;
+    position: relative;
+    top: -7px;
+    left: 10px;
+    font-size: 30px;
+    color:#ffffff ;
+
+}
+
+.fa-usd{
+    top:-28px;
+    position: relative;
+    color:#ffffff ;
+    left:56%;
+}
+.sua h4{
+    font-size: 30px;
+    padding: 15px 0;
+}
+.sua p{
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.woman {
+    position:fixed;
+    top:10%;
+    z-index:1001;
+    left:0;
+    margin-left: 20px;
+}
+.woman input{
+    position: relative;
+    top: 22px;
+    left: -15px;
+}
+.close,.close:hover{
+    opacity: 1;
+}
+
+.fa-times{
+    position: absolute;
+    right: -25px;
+    top:-23px;
+    background: #FFFFFF;
+    padding: 8px 10px;
+    border-radius: 50%;
+}
+.fa-times:hover{
+    background:#eee;
+    color: #4cae4c;
+}
+@font-face {
+    font-family: roboto-light;
+    src: url("../fonts/Roboto-Light.ttf");
+}
+#bao_chi{
+    padding-top: 30px;
+    background:#ddd;
+    padding-bottom: 70px;
+}
+#bao_chi h4{
+    color:#000;
+    font-family: roboto-light;
+    font-size:30px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+#bao_chi ul{
+    list-style:none;
+    padding-bottom: 70px;
+}
+
+#bao_chi ul li{
+    font-size: 17px;
+    padding: 10px;
+    color: #d9d8d8;
+}
+#bao_chi ul li a{
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+#demos .item{
+    background-color: #fff;
+    width: 100%;
+    height: 160px;
+    border: 2px solid #d4d4d4;
+    border-radius: 5px;
+}
+
+#demos .item img{
+    padding-top:30%;
+    width: 90%;
+    height: 70%;
+    margin-left: 10px;
+}
+
+.header_gt{
+    padding-top: 60px;
+}
+.header_gt p,.content p{
+    font-size: 16px;
+}
+.content {
+    padding-bottom: 40px;
+}
+/*tuan anh 3*/
+#xh_ndt{
+    background-color: #ebebf1;
+    width: 100%;
+    height: auto;
+}
+.mg_t{
+    margin-top: 15px;
+}
+#left img{
+    width: 100%;
+    height: 100%;
+
+}
+.mg_t ul{
+    list-style: none;
+    padding-left:0;
+}
+#right ul li{
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d7d7db;
+}
+#right ul li p{
+    font-size: 18px;
+    margin-left: 10px;
+    padding-top: 4px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+#right ul li span{
+    font-size: 14px;
+    color: #ff7e00;
+}
+#right ul li img{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 5px;
+    border-radius: 50%;
+    box-shadow: 0 1px #b0b0b5;
+}
+#right .fa-chevron-down {
+    position: absolute;
+    right: 0px;
+    top: 25px;
+    color: #cccccc;
+}
+
+#right ul li ul li{
+    border-bottom: none;
+    color: #000;
+}
+#right ul li ul li p{
+    font-weight: normal;
+}
+#right a{
+    text-decoration: none;
+}
+#show,#show1,#show2,#show3,#show4,#show5{
+    margin-left: 50px;
+    display: none;
+}
+#right #show p,#right #show p,#right #show1 p,#right #show2 p,#right #show3 p,#right #show4 p,#right #show5 p{
+    font-size: 14px;
+}
+.sua2 p{
+    font-size: 16px;
+    padding-bottom: 0;
+}
+
+.sua2 ul{
+    list-style-type: none;
+    margin-left: 25px;
+}
+#content{
+    font-weight: 400;
+}
+
+#truyen_hinh{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    background-color:#eceff1 ;
+}
+
+#truyen_hinh h4{
+    color:#000;
+    font-family: roboto-light;
+    font-size:30px;
+    margin-top: 10px;
+}
+
+#product{
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    padding-bottom: 50px;
+
+}
+#product h4{
+    font-family: roboto-light;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+}
+
+#product .btn-product{
+    background-color: #00C851;
+    color: #fff;
+    font-family: roboto-light;
+    font-weight: bold;
+    margin-bottom: 4%;
+}
+#product .card-title{
+    font-family: roboto-light;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 5px;
+    margin: 0 5px;
+}
+#product .card-text{
+    font-family: roboto-light;
+    font-weight: bold;
+    padding: 5px 5px;
+}
+
+#product a{
+    color: #000;
+}
+#product a:hover{
+    text-decoration: none;
+    cursor: pointer;
+}
+#product img{
+    border-radius: 4px 4px 0 0;
+}
+#product .item{
+    border:1px solid #eee;
+    border-radius: 4px;
+}
+#product .item:hover .btn-product{
+    background-color: #0e572b;
+}
+
+
+#hidden-web {
+    padding-top: 40px;
+    width: 100%;
+    height: auto;
+}
+.video-left img{
+    cursor: pointer;
+    float: left;
+    width:570px;
+    height: 350px;
+    margin-right: 10px;
+}
+.video-right img{
+    cursor: pointer;
+    width:280px ;
+    height: 170px;
+}
+.video-right img:nth-child(1),.video-right img:nth-child(2){
+    margin-bottom: 10px;
+}
+.video-right img:nth-child(1),.video-right img:nth-child(3){
+    margin-right: 5px;
+}
+
+#video1 iframe,#video2 iframe,#video3 iframe,#video4 iframe,#video5 iframe{
+    width:868px;
+    height:488px
+}
