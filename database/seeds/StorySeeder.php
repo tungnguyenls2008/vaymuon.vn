@@ -16,7 +16,7 @@ class StorySeeder extends Seeder
         for ($i=0;$i<20;$i++){
             DB::table('stories')->insert([
                 'name' => $faker->name,
-                'avatar'=>$faker->image('public/images/avatar',640,480,'people',false),
+                'avatar'=>$faker->image('public/images/avatar/story',640,480,'people',false),
                 'career' => $faker->realText(25),
                 'story'=> $faker->realText(),
                 'role'=>$faker->numberBetween(1,2)

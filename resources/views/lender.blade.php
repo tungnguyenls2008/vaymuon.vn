@@ -1,4 +1,10 @@
 @extends('layouts.master')
 @section('content')
-    for lender
+    @include('partials.lender.banner_top')
+    @include('partials.lender.introduction')
+    @include('partials.lender.how_to')
+    @include('partials.lender.steps')
+    @include('partials.lender.payment')
+    @include('partials.stories')
+    @include('partials.lender.mobile_app_install')
 @stop

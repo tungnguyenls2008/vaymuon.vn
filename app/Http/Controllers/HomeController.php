@@ -19,4 +19,13 @@ class HomeController extends Controller
     public function forLender(){
         return view('lender');
     }
+    public function forInvestor(){
+        return view('investor');
+    }
+    public function payments(){
+        return view('payments');
+    }
+    public function promotion(){
+        return view('promotion');
+    }
 }

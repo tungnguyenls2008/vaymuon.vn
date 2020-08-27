@@ -1,17 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd97cda5-fddd-4184-8f52-242de1caede5" name="Default Changelist" comment="" />
+    <list default="true" id="cd97cda5-fddd-4184-8f52-242de1caede5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/LendingMethodController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/LendingMethod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_08_27_032335_create_lending_methods_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/LendingMethodSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar/lender/40b54d2efbae0923537f8bc5ec41f7e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar/story/1175e178de2a74ba9de534fb0c674e1d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar/story/2afba7fad3dbd1e3fa10853e7f2eac7c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar/story/68cbbb46eb2c71677cd13bfecba3779d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar/story/9aa33fae131e01df63fbf7a1ce875f7d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar/story/a408ce6b675ffb691eea97e18084820d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar/story/a7c9af33d1d52988dce685ea4a30e34e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/avatar/story/ee1270a489eb7b9cf0e2b2854996ac13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/investor/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/investor/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/investor/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/investor/banner4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/investor/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/investor/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/investor/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/icon10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/icon7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/icon8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/icon9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/kinh_doanh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/ld_tu_do.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/ng_di_lam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/sinh_vien.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/lender/tai_xe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/payments/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/payments/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/payments/momo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/press/2.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/press/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/investor.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/home/banner_top.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/home/mobile_app_install.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/home/operate_model.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/home/press.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/how_to.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/investor/banner_top.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/investor/description.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/investor/mobile_app_install.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/investor/more_than_investment.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/investor/steps.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/lender/banner_top.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/lender/how_to.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/lender/introduction.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/lender/mobile_app_install.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/lender/payment.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/lender/steps.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/payment/description.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/payment/interest.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/payment/methods.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/promotion/banner_top.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/promotion/promotion_detail.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/promotion/promotion_footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/promotion/promotion_steps.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/stories.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/support_box.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/payments.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/promotion.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vaymuon.vn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vaymuon.vn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/StorySeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/StorySeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/press/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/press/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/press/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/press/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/038d9c8ad4ac0d646b3800180056656a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/79361f38de7ea6d00d8a10361e33909a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/09551b56af82a68efce5acf03338ddbc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/31273628ee85e71cc862b717ec1b5e42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/1de425bcff782515e61e34134b9d4759.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/df9bcc2f939140943bb3db405c9b1983.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/1f66f6e386eb256d45afe6fd8cbfac09.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/004b4f663638520e5563b4cc0664a4c3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/3e16f21e3fe76cfb8db19fc0d4fa5813.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/a6d775eddba2bff4d90601d8a74b0c3a.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/469996696980534568a311d888a9f9bd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/story/1f96b099a468f84c39b27d67dec0d53d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/47f365c87eaff8dc13da3794584a7f0f.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/7dd2957c4de9c691720834893a315931.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/53918821c586af7b3a39bbb2ce86b6c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/story/17a225aa53be31455fad3495b26fb6b2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/649e7a4eb1dab5e75d4f31ada74daa29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/87f96b756280b4a5566fb8f0f16d934e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/8e5d13e77980416b0efce3267355c3a1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/a581519706c4eb4e12ebeccba60b3683.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/923afb8f51a6b58ac75c6b70da9e4d4d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/lender/b5131d0663877501b9641252b9ce1592.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/a1db51bb517004c2127dcd9765468e2d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/aa6cc1077439dd8804682fdbe664ba4c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/ab16d1dcd42923f775b6553d7d9bc30b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/b36ca2643f54cdc9046bf3ee2152c86a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/bdf2e9526c494dca1aaf7ddc0b86bc16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/bf2ececc9d8eedd7311f7c3cc9d8081f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/c37342c242397963424432b71c33d3f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/da54a260b5672742763b27cc995e769c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/avatar/story/d9980bc017f5806de6f429d355a9f9c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatar/f92655df33b93f0fa7de6247b5ad192d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/img4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/press/img4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/vietmanbiz.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/press/vietmanbiz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/lender.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/lender.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/partials/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/partials/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable path="composer" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -120,24 +246,35 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gd1fiPPDY2aJyojNFwD3FM2DBc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images/investor" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/js/carouselengine" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/investor" />
+      <recent name="$PROJECT_DIR$/public/images/payments" />
+      <recent name="$PROJECT_DIR$/public/images/lender" />
+      <recent name="$PROJECT_DIR$/public/images/press" />
       <recent name="$PROJECT_DIR$/public/images" />
-      <recent name="$PROJECT_DIR$/public/css" />
-      <recent name="$PROJECT_DIR$/public/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/press" />
+      <recent name="$PROJECT_DIR$/resources/views/partials/home" />
+      <recent name="$PROJECT_DIR$/resources/views/partials" />
+      <recent name="$PROJECT_DIR$/public/js/carouselengine" />
     </key>
   </component>
   <component name="RunManager">
@@ -154,41 +291,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598429760101</updated>
-      <workItem from="1598429761121" duration="2252000" />
+      <workItem from="1598429761121" duration="9505000" />
+      <workItem from="1598491243628" duration="8890000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="737" y="416" width="436" height="245" key="#Composer" timestamp="1598429815415">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
     <state x="737" y="416" width="436" height="245" key="#Composer/0.27.1920.1027@0.27.1920.1027" timestamp="1598429815415" />
+    <state x="693" y="296" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1598433247241">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state x="693" y="296" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.27.1920.1027@0.27.1920.1027" timestamp="1598433247241" />
     <state x="698" y="452" width="513" height="172" key="ComposerInitDialogKey" timestamp="1598431589706">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
     <state x="698" y="452" width="513" height="172" key="ComposerInitDialogKey/0.27.1920.1027@0.27.1920.1027" timestamp="1598431589706" />
-    <state width="1874" height="270" key="GridCell.Tab.0.bottom" timestamp="1598429794740">
+    <state x="743" y="296" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598438788494">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state width="1874" height="270" key="GridCell.Tab.0.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1598429794740" />
-    <state width="1874" height="270" key="GridCell.Tab.0.center" timestamp="1598429794739">
+    <state x="743" y="296" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1027@0.27.1920.1027" timestamp="1598438788494" />
+    <state width="1874" height="270" key="GridCell.Tab.0.bottom" timestamp="1598439269222">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state width="1874" height="270" key="GridCell.Tab.0.center/0.27.1920.1027@0.27.1920.1027" timestamp="1598429794739" />
-    <state width="1874" height="270" key="GridCell.Tab.0.left" timestamp="1598429794739">
+    <state width="1874" height="270" key="GridCell.Tab.0.bottom/0.27.1920.1027@0.27.1920.1027" timestamp="1598439269222" />
+    <state width="1874" height="270" key="GridCell.Tab.0.center" timestamp="1598439269222">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state width="1874" height="270" key="GridCell.Tab.0.left/0.27.1920.1027@0.27.1920.1027" timestamp="1598429794739" />
-    <state width="1874" height="270" key="GridCell.Tab.0.right" timestamp="1598429794740">
+    <state width="1874" height="270" key="GridCell.Tab.0.center/0.27.1920.1027@0.27.1920.1027" timestamp="1598439269222" />
+    <state width="1874" height="270" key="GridCell.Tab.0.left" timestamp="1598439269220">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state width="1874" height="270" key="GridCell.Tab.0.right/0.27.1920.1027@0.27.1920.1027" timestamp="1598429794740" />
-    <state x="756" y="463" width="397" height="151" key="NewPhpFileDialog" timestamp="1598431285257">
+    <state width="1874" height="270" key="GridCell.Tab.0.left/0.27.1920.1027@0.27.1920.1027" timestamp="1598439269220" />
+    <state width="1874" height="270" key="GridCell.Tab.0.right" timestamp="1598439269222">
       <screen x="0" y="27" width="1920" height="1027" />
     </state>
-    <state x="756" y="463" width="397" height="151" key="NewPhpFileDialog/0.27.1920.1027@0.27.1920.1027" timestamp="1598431285257" />
+    <state width="1874" height="270" key="GridCell.Tab.0.right/0.27.1920.1027@0.27.1920.1027" timestamp="1598439269222" />
+    <state x="756" y="463" width="397" height="151" key="NewPhpFileDialog" timestamp="1598496031539">
+      <screen x="0" y="27" width="1920" height="1027" />
+    </state>
+    <state x="756" y="463" width="397" height="151" key="NewPhpFileDialog/0.27.1920.1027@0.27.1920.1027" timestamp="1598496031539" />
   </component>
 </project>

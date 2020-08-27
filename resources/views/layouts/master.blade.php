@@ -30,7 +30,7 @@
     <script type="text/javascript" src="https://vaymuon.vn/js/owl.carousel.min.js"></script>
     <script type="text/javascript" src="https://vaymuon.vn/js/wow.min.js"></script>
     <script type="text/javascript" src="https://vaymuon.vn/js/jquery.countdown.min.js"></script>
-    <script type="text/javascript" src="https://vaymuon.vn/js/style.js"></script>
+    <script type="text/javascript" src="{{asset('js/style.js')}}"></script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
@@ -170,7 +170,9 @@
 
 <body class="">
 <div class="page-wrapper">
+    @section('header')
     @include('partials.header')
+    @show
     @include('partials.sidebar')
     <div class="page-container">
         <div class="main-content">
@@ -181,7 +183,9 @@
             </div>
         </div>
         <div class="col-sm-12">
+            @section('footer')
             @include('partials.footer')
+                @show
         </div>
     </div>
 </div>

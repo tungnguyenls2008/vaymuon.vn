@@ -1,0 +1,10 @@
+@extends('layouts.master')
+@section('content')
+    @include('partials.investor.banner_top')
+    @include('partials.investor.more_than_investment')
+    @include('partials.how_to')
+    @include('partials.investor.description')
+    @include('partials.investor.steps')
+    @include('partials.stories')
+    @include('partials.investor.mobile_app_install')
+@stop

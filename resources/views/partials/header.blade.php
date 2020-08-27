@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="header-logo pull-left">
                     <!--                    <a href="https://vaymuon.vn/"><img src="images/logo_fastlend.png" alt=""></a>-->
-                    <a href="https://vaymuon.vn/"><img src={{asset("images/image.png")}} alt=""></a>
+                    <a href="{{route('home')}}"><img src={{asset("images/image.png")}} alt=""></a>
                 </div>
                 <div class="header-navs pull-right">
                     <nav class="navbar navbar-default">
@@ -23,9 +23,9 @@
                             <div class="collapse navbar-collapse menu-top" id="menu">
                                 <ul class="nav navbar-nav">
                                     <li><a href="{{route('lender')}}">Người vay</a></li>
-                                    <li><a href="nha_dau_tu">Nhà đầu tư</a></li>
-                                    <li><a href="thanh_toan_khoan_vay">Thanh toán khoản vay</a></li>
-                                    <li><a href="uu-dai-vay-lai-0-phan-tram">Khuyến Mãi</a></li>
+                                    <li><a href="{{route('investor')}}">Nhà đầu tư</a></li>
+                                    <li><a href="{{route('payments')}}">Thanh toán khoản vay</a></li>
+                                    <li><a href="{{route('promotion')}}">Khuyến Mãi</a></li>
                                 </ul>
                             </div>
                         </div>
