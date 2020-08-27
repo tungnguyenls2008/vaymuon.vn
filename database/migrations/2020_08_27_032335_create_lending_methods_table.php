@@ -15,9 +15,9 @@ class CreateLendingMethodsTable extends Migration
     {
         Schema::create('lending_methods', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->string('description');
-            $table->string('avatar');
+            $table->string('name',24)->unique();
+            $table->text('description');
+            $table->string('avatar',48);
             $table->timestamps();
         });
     }

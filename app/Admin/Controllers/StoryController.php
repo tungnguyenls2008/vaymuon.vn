@@ -71,6 +71,7 @@ class StoryController extends AdminController
 
         $form->text('name', __('Name'));
         $form->image('avatar', __('Avatar'));
+        $form->image('avatar')->move('public/images/avatar/story');
         $form->text('career', __('Career'));
         $form->number('role', __('Role'));
         $form->text('story', __('Story'));

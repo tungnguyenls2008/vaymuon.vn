@@ -68,7 +68,7 @@ class LendingMethodController extends AdminController
         $form->text('name', __('Name'));
         $form->text('description', __('Description'));
         $form->image('avatar', __('Avatar'));
-
+        $form->image('avatar', __('Avatar'))->move('public/images/avatar/lender');
         return $form;
     }
 }
